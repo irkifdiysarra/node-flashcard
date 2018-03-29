@@ -1,0 +1,22 @@
+{
+  "name": "express-flashcard",
+  "version": "1.0.0",
+  "description": "flashcard using express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express.js",
+    "npm"
+  ],
+  "author": "Fikri Arrasid",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "pug": "^2.0.1"
+  }
+}

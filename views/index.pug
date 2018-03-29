@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    content
+        h4 Halo, #{username}
+        a(href = './cards') Go to cards
+        br
+        br
+        form(action="/" method="POST")
+            button(type="submit") Logout

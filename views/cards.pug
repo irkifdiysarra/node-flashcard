@@ -1,0 +1,21 @@
+extends layout
+
+block content
+    
+    content
+        h4= text
+        if hint
+            i Hint: #{hint} 
+        br
+        a(href = `/cards/${id}?side=${sidenya}`) #{SideToDisplay}
+        br
+        a(href="/cards") Soal Baru
+        br
+        a(href="/") Capek ahh
+
+        //- else
+        //-     p No Clue
+        //- ul        
+        //-     each color in colors
+        //-         li= color
+        

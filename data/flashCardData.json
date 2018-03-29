@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "Kuis Flash",
+        "cards": [
+            {
+                "soal": "Siapa aku?",
+                "hint": "Kira kira aja",
+                "jawaban": "Hikmat"
+            },
+            {
+                "soal": "Umurnya berapa?",
+                "hint": "20an",
+                "jawaban": "23"
+            },
+            {
+                "soal": "Orang mana?",
+                "hint": "Kota ini",
+                "jawaban": "Bandung"
+            },
+            {
+                "soal": "Kerja dimana?",
+                "hint": "kamu ini lagi dimana?",
+                "jawaban": "Makers Institute"
+            },
+            {
+                "soal": "Udah makan belum?",
+                "hint": "wah rahasia",
+                "jawaban": "Udah harusnya"
+            }
+        ]
+    }
+}
